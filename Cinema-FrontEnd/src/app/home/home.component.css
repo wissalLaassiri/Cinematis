@@ -1,0 +1,16 @@
+body, html {
+  height: 100%;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("https://a9ofi49mlrn3i0rh13iivxwd-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/cinematicconflict.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
